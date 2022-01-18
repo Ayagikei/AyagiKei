@@ -1,23 +1,33 @@
 ## **Hi there!**
 
-My nickname is Kei and I am (or willing to be) an independent android developer.
+My nickname is Kei and I am an android developer and a app designer.
 
+### **Main Project:**
 
-Some simple self-introductions:
+- [*LifeUp*](https://github.com/Ayagikei/LifeUp)
 
-- I have a side project called *LifeUp*, which is a gamification To-Do &
+A gamification To-Do &
 Habit Application and it's available in [the Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
 
-- My main job is Android development, but I am also interested in product design, UI design, product operation, etc.
+> It's developed by me and two other excellent friends in our spare time.
 
-- Former ACMer and former English-to-Chinese Translators for some small game mods and Steam.
+<br/>
 
-- I occasionally write articles in Chinese, both about programming, game culture, and more... and you can find them in my blog or my zhihu page.
+### **Side Project:**
 
-- In addition, I also like reading, movies, anime, etc. One of my favorite games is "13 Sentinels: Aegis Rim".
+- [*Calendar Manager*](https://github.com/Ayagikei/calendar-account-manager)
 
+A small app to delete unused app.
+
+<br/>
+
+### Contact
 
 If you want to communicate with me, please send me an email or add an "issue".
+
+<br/>
+
+### Stat
 
 ![AyagiKei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayagikei&count_private=true&show_icons=true)
 
