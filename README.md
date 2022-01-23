@@ -9,7 +9,7 @@ My nickname is Kei and I am an android developer and a app designer.
 A gamification To-Do &
 Habit Application and it's available in [the Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
 
-> It's developed by me and two other excellent friends in our spare time.
+> It's developed by me and two other excellent confidants in our spare time.
 
 <br/>
 
@@ -17,7 +17,7 @@ Habit Application and it's available in [the Google Play](https://play.google.co
 
 - [*Calendar Manager*](https://github.com/Ayagikei/calendar-account-manager)
 
-A small app to delete unused app.
+A small app to delete unused android calendar accounts.
 
 <br/>
 
