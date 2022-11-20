@@ -1,19 +1,18 @@
 ## **Hi there!**
 
-My nickname is Kei and I am an android developer and a app designer.
+My nickname is Kei, and I am an android developer and an app designer.
 
-### **Main Project:**
+### **Main Projects:**
 
 - [*LifeUp*](https://github.com/Ayagikei/LifeUp)
 
-A gamification To-Do &
-Habit Application and it's available in [the Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
+A gamification To-Do & Habit Application, and it's available in [Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
 
-> It's developed by me and one other excellent confidants in our spare time.
+> One other excellent confidants and I develop it in our spare time.
 
 <br/>
 
-### **Side Project:**
+### **Side Projects:**
 
 - [*Calendar Manager*](https://github.com/Ayagikei/calendar-account-manager)
 
@@ -21,14 +20,14 @@ A small app to delete unused android calendar accounts.
 
 - [*LifeUp SDK*](https://github.com/Ayagikei/LifeUp-SDK)
 
-A small app to provide LifeUp SDK, and expose LifeUp APIs as HTTP services!.
+A small app to provide LifeUp SDK and expose LifeUp APIs as HTTP services!
 
 
 <br/>
 
 ### Contact
 
-If you want to communicate with me, please send me an email or add an "issue".
+If you want to communicate with me, please email me or add an issue in related projects.
 
 <br/>
 
