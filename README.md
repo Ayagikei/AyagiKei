@@ -19,6 +19,11 @@ Habit Application and it's available in [the Google Play](https://play.google.co
 
 A small app to delete unused android calendar accounts.
 
+- [*LifeUp SDK*](https://github.com/Ayagikei/LifeUp-SDK)
+
+A small app to provide LifeUp SDK, and expose LifeUp APIs as HTTP services!.
+
+
 <br/>
 
 ### Contact
