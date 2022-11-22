@@ -8,8 +8,6 @@ My nickname is Kei, and I am an android developer and an app designer.
 
 A gamification To-Do & Habit Application, and it's available in [Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
 
-> One other excellent confidants and I develop it in our spare time.
-
 <br/>
 
 ### **Side Projects:**
