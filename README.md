@@ -18,7 +18,11 @@ A small app to delete unused android calendar accounts.
 
 - [*LifeUp SDK*](https://github.com/Ayagikei/LifeUp-SDK)
 
-A small app to provide LifeUp SDK and expose LifeUp APIs as HTTP services!
+The LifeUp SDK and a small app to provide LifeUp SDK and expose LifeUp APIs as HTTP services!
+
+- [*LifeUp Desktop*](https://github.com/Ayagikei/LifeUp-Desktop)
+
+A LAN desktop port LifeUp that developed based on LifeUp SDK.
 
 
 <br/>
