@@ -16,7 +16,7 @@ A gamification To-Do & Habit Application, and it's available in [Google Play](ht
 
 A small app to delete unused android calendar accounts.
 
-- [*LifeUp SDK*](https://github.com/Ayagikei/LifeUp-SDK)
+- [*LifeUp SDK & LifeUp Cloud(API Http Services)*](https://github.com/Ayagikei/LifeUp-SDK)
 
 The LifeUp SDK and a small app to provide LifeUp SDK and expose LifeUp APIs as HTTP services!
 
