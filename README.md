@@ -12,7 +12,7 @@ My nickname is Kei, and I am an android developer and an app designer.
 
 - [*LifeUp*](https://github.com/Ayagikei/LifeUp)
 
-A gamification To-Do & Habit Application, and it's available in [Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
+  A gamification To-Do & Habit Application, and it's available in [Google Play](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
 
 <br/>
 
